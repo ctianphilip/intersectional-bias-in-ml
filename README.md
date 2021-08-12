@@ -1,4 +1,4 @@
-# intersectional-bias-in-ml
+# Detecting Hate Speech and Abusive Language
 
 
 **Intersectional Bias in Hate Speech and Abusive Language Datasets**
